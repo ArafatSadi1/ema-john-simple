@@ -1,0 +1,18 @@
+.shop{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.products-container{
+    margin: 20px 30px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 45px;
+}
+.cart{
+    background-color: #FFE0B3;
+}
+.cart h5{
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 25px;
+}
