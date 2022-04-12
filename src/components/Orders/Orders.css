@@ -1,3 +1,4 @@
 .review-item-container{
-    margin: 50px;
+    display: flex;
+    justify-content: center;
 }
