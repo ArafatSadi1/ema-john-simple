@@ -4,8 +4,7 @@
   border: 1px solid #95a0a7;
   box-sizing: border-box;
   border-radius: 8px;
-  display: flex;
-  justify-content: center;
+  padding-left: 42px;
   box-shadow: -12px 12px #ffe0b3;
 }
 
@@ -84,6 +83,7 @@
   color: #2a414f;
   font-size: 17px;
   margin: 45px 0;
+  cursor: pointer;
 }
 
 .logo {
